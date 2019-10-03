@@ -1,9 +1,9 @@
 {
-  "name": "mywebsite",
+  "name": "Omar Attia",
   "version": "1.1.1",
-  "description": "My website",
+  "description": "Omar Attia's Webpage",
   "main": "index.js",
-  "homepage": "https://chesterhu.github.io/MyWebsite.git",
+  "homepage": "https://oattia.github.io/MyWebsite.git",
   "scripts": {
     "div": "webpack -d --watch",
     "start": "node ./server/index.js",
@@ -14,7 +14,7 @@
     "postinstall": "webpack",
     "heroku-postbuild": "webpack -p"
   },
-  "author": "Chester Hu",
+  "author": "Omar Attia",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
