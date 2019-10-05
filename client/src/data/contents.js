@@ -66,7 +66,7 @@ const contact = {
 	subsections: [
 		{
 			paragraphs: [
-				'Email: c55hu at uwaterloo.ca',
+				'Email: my_first_name.my_last_name@uwaterloo.ca',
 				'Room 3594, Davis Centre',
 				'David Cheriton School of Computer Science',
 				'University of Waterloo, Ontario',
