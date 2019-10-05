@@ -1,9 +1,0 @@
-export const NUM_ROWS = 10;
-export const NUM_COLS = 10;
-export const VERTICAL = 'vertical';
-export const HORIZONTAL = 'horizontal';
-export const EMPTY = ' ';
-export const SHIP = 'S';
-export const HIT = 'X';
-export const MISS = 'M';
-export const ALL_SHIPS = [2, 3, 3, 3, 5];
